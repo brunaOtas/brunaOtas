@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,7,10&text=BRUNA%20OTAS&fontColor=00F5FF&fontSize=42&fontAlignY=38&desc=DATA%20%26%20ANALYTICS%20//%20SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=58&descSize=16&descColor=B98CFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1B0A3F,100:2D0A5E&text=BRUNA%20OTAS&fontColor=00F5FF&fontSize=42&fontAlignY=38&desc=DATA%20%2B%20ANALYTICS%20//%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=15&descColor=B98CFF&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=%3E+system.boot()+...;%3E+loading+modules%3A+sql%2C+power_bi%2C+python...;%3E+status%3A+ONLINE+%E2%9C%93;%3E+turning+data+into+decisions.+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -118,7 +118,7 @@ bruna@dev:~$ _
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2,7,10&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2D0A5E,50:1B0A3F,100:0D1117&section=footer" width="100%"/>
 
 <sub>💠 desenvolvido com café, código e curiosidade por <b>Bruna Otas</b> 💠</sub>
 
