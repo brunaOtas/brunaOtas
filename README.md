@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,7,10&text=BRUNA%20OTAS&fontColor=00F5FF&fontSize=42&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20//%20DATA%20%2B%20CODE&descAlignY=58&descSize=18&descColor=B98CFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,7,10&text=BRUNA%20OTAS&fontColor=00F5FF&fontSize=42&fontAlignY=38&desc=DATA%20%26%20ANALYTICS%20//%20SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=58&descSize=16&descColor=B98CFF&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=%3E+system.boot()+...;%3E+loading+modules%3A+python%2C+sql%2C+power_bi...;%3E+status%3A+ONLINE+%E2%9C%93;%3E+ready+to+build.+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=%3E+system.boot()+...;%3E+loading+modules%3A+sql%2C+power_bi%2C+python...;%3E+status%3A+ONLINE+%E2%9C%93;%3E+turning+data+into+decisions.+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/LOCATION-AMAZONAS%2C_BR-B98CFF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/FOCO-DEV_%2F_DATA-FF2ECC?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/An%C3%A1lise_de_Dados-FF2ECC?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Business_Intelligence-FF2ECC?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Engenharia_de_Dados-FF2ECC?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -16,28 +18,36 @@
 
 ```yaml
 nome:        Bruna Luiza Otas Camarão
-cargo:       Engenheira de Software Júnior
+cargo:       Data & Analytics | Software Engineering Student
 formacao:    Engenharia de Software — FUCAPI (previsão: 2027)
 atuacao:     Secretária Executiva — Assembleia Legislativa do Amazonas
-objetivo:    Estágio em Desenvolvimento | Ciência de Dados | Análise de Sistemas
-stack:       [Python, C/C++, SQL, Power BI, Power Query, Figma, Git/GitHub]
+foco:        Análise de Dados | Business Intelligence | Engenharia de Dados
+objetivo:    Estágio em Ciência de Dados | Análise de Dados | Desenvolvimento
+stack:       [SQL, Power BI, Power Query, Python, C/C++, Figma, Git/GitHub]
 mindset:     "Boa análise de dados começa em uma base bem estruturada."
 ```
 
 <br/>
 
-## <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1&pause=100000&color=00F5FF&center=false&vCenter=true&width=320&height=30&lines=%3E+tech_stack+--list" />
+## <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1&pause=100000&color=00F5FF&center=false&vCenter=true&width=320&height=30&lines=%3E+data_stack+--list" />
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,mysql,git,github,vscode,androidstudio&theme=dark" />
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/DAX-0f0c29?style=for-the-badge&labelColor=0d1117" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+
+</div>
+
+<br/>
+
+## <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1&pause=100000&color=00F5FF&center=false&vCenter=true&width=320&height=30&lines=%3E+dev_stack+--list" />
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,git,github,vscode,androidstudio,figma&theme=dark" />
 
 </div>
 
@@ -64,7 +74,7 @@ bruna@dev:~$ status --current
 [ ✔ ] Secretária executiva no gabinete parlamentar — ALEAM
 [ ▸ ] Estudando Java para Android Studio
 [ ▸ ] Evoluindo em modelagem de dados, DAX e Power BI
-[ … ] Em busca de estágio em Dev / Ciência de Dados / Análise de Sistemas
+[ … ] Em busca de estágio em Ciência de Dados / Análise de Dados / Desenvolvimento
 
 bruna@dev:~$ _
 ```
