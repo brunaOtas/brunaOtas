@@ -23,31 +23,35 @@ formacao:    Engenharia de Software — FUCAPI (previsão: 2027)
 atuacao:     Secretária Executiva — Assembleia Legislativa do Amazonas
 foco:        Análise de Dados | Business Intelligence | Engenharia de Dados
 objetivo:    Estágio em Ciência de Dados | Análise de Dados | Desenvolvimento
-stack:       [SQL, Power BI, Power Query, Python, C/C++, Figma, Git/GitHub]
+stack:       [Python, SQL, MySQL, Power BI, Excel Avançado]
 mindset:     "Boa análise de dados começa em uma base bem estruturada."
 ```
 
 <br/>
 
-## <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1&pause=100000&color=00F5FF&center=false&vCenter=true&width=320&height=30&lines=%3E+data_stack+--list" />
+## <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1&pause=100000&color=00F5FF&center=false&vCenter=true&width=320&height=30&lines=%3E+ferramentas+--list" />
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/DAX-0f0c29?style=for-the-badge&labelColor=0d1117" />
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
 </div>
 
 <br/>
 
-## <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1&pause=100000&color=00F5FF&center=false&vCenter=true&width=320&height=30&lines=%3E+dev_stack+--list" />
+## <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1&pause=100000&color=00F5FF&center=false&vCenter=true&width=320&height=30&lines=%3E+outras_ferramentas" />
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,git,github,vscode,androidstudio,figma&theme=dark" />
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/DAX-0f0c29?style=for-the-badge&labelColor=0d1117" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,git,github,vscode,androidstudio,figma&theme=dark" />
 
 </div>
 
