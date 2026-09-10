@@ -61,9 +61,25 @@ mindset:     "Boa análise de dados começa em uma base bem estruturada."
 
 <div align="center">
 
-<a href="https://github.com/brunaOtas/bikr-powerbi-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brunaOtas&repo=bikr-powerbi-dashboard&theme=synthwave&hide_border=true&bg_color=0d1117" />
-</a>
+<table>
+<tr>
+<td align="center" width="600" style="background-color:#0d1117;">
+
+### 🚴 [Bikr Analytics — Do Design ao Dashboard Interativo](https://github.com/brunaOtas/bikr-powerbi-dashboard)
+
+Dashboard interativo em Power BI para o setor de ciclismo — do UI/UX no Figma ao ETL com Power Query e Data Storytelling com DAX.
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/DAX-1B0A3F?style=flat-square&labelColor=0d1117" />
+
+<img src="https://img.shields.io/github/stars/brunaOtas/bikr-powerbi-dashboard?style=flat-square&color=FF2ECC&labelColor=0d1117&label=%E2%98%85%20stars" />
+<img src="https://img.shields.io/github/last-commit/brunaOtas/bikr-powerbi-dashboard?style=flat-square&color=00F5FF&labelColor=0d1117&label=last%20commit" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -87,9 +103,10 @@ bruna@dev:~$ _
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1&pause=100000&color=00F5FF&center=true&vCenter=true&width=320&height=30&lines=%3E+achievements" />
+## <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1&pause=100000&color=00F5FF&center=true&vCenter=true&width=320&height=30&lines=%3E+github_stats" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=brunaOtas&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://img.shields.io/github/followers/brunaOtas?style=for-the-badge&logo=github&color=00F5FF&labelColor=0d1117&label=followers" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=B98CFF&label=repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FbrunaOtas" />
 
 <br/>
 
