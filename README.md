@@ -93,7 +93,6 @@ bruna@dev:~$ status --current
 
 [ ✔ ] Cursando Engenharia de Software — FUCAPI (previsão: 2027)
 [ ✔ ] Secretária executiva no gabinete parlamentar — ALEAM
-[ ▸ ] Estudando Java para Android Studio
 [ ▸ ] Evoluindo em modelagem de dados, DAX e Power BI
 [ … ] Em busca de estágio em Ciência de Dados / Análise de Dados / Desenvolvimento
 
